@@ -1,5 +1,5 @@
-རྗེ་རང་བྱུང་ཞབས་ཀྱིས་མཛད་པའི་ངེས་དོན་ཕྱག་ཆེན་སྨོན་ལམ་བཞུགས་སོ། །
-Aspirativna molitev Mahamudre
+རྗེ་རང་བྱུང་ཞབས་ཀྱིས་མཛད་པའི་ངེས་དོན་ཕྱག་ཆེན་སྨོན་ལམ་བཞུགས་སོ། །  
+Aspirativna molitev Mahamudre  
 Tretji Karmapa Rangdžung Dordže
 
 ན་མོ་གུ་རུ།  

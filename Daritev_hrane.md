@@ -1,4 +1,4 @@
-Daritev hrane
+# Daritev hrane
 
 སྟོན་པ་བླ་མེད་སངས་རྒྱས་རིན་པོ་ཆེ། །  
 tönpa lame sangje rinpoče  
