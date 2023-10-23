@@ -19,5 +19,5 @@ dug-ngal me-pe de-ua dam-pa-dang mi-dral uar-gjur-čig
 nje-ring čag-dang nji-dang dral-ue tang-njom čen-po-la ne-par gjur-čig  
 >Naj bivajo v veliki enakodušnosti, brez navezanosti ali odpora do bližnjih in daljnih.
 
-ལན་གསུམ།  
-Ponovi 3x
+*ལན་གསུམ།  
+Ponovi 3x*

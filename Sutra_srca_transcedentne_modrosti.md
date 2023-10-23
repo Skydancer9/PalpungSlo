@@ -1,8 +1,7 @@
 <!-- Custom CSS styling: --->
 <link rel="stylesheet" href="./stylesheet.css" type="text/css" />
 
-༄༅། །ཤེས་རབ་སྙིང་པོ་བཞུགས་སོ། །
-Sutra srca transcedentne modrosti
+# ༄༅། །ཤེས་རབ་སྙིང་པོ་བཞུགས་སོ། ། <br>Sutra srca transcedentne modrosti
 
 འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན། བཅོམ་ལྡན་འདས་རྒྱལ་པོའི་ཁབ་བྱ་རྒོད་ཕུང་པོའི་རི་ལ་དགེ་སློང་གི་  
 di ke dak gi tö pa dü čik na / čom den de gjel poi khab dža gö pung poi ri la ge long gi  

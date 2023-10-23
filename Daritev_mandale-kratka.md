@@ -1,7 +1,7 @@
 <!-- Custom CSS styling: --->
 <link rel="stylesheet" href="./stylesheet.css" type="text/css" />
 
-# མནྜལ་ནི། <br>Daritev mandale – kratka
+# མནྜལ་ནི། <br>Kratka daritev mandale
 
 ས་གཞི་སྤོས་ཆུས་བྱུགས་ཤིང་མེ་ཏོག་བཀྲམ། །  
 sa ži pö ču džug šing me tog tram  
