@@ -1,0 +1,27 @@
+/* Some basic markdown styling for PalpungSlo texts repository */
+
+h1 {
+  text-align: center;
+}
+
+h1, h2 {
+  font-family: serif;
+}
+
+h2 {font-size:1.4em;}
+
+a {
+  color: rgb(19, 170, 92)
+}
+
+em {
+  color: rgb(93, 119, 199);
+}
+
+blockquote {
+  border: none;
+  background: none;
+  margin: -1.11em 0 0 1.5em;
+  padding: 0;
+  font-style: italic;
+}
