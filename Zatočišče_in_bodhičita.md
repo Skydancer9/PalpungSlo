@@ -21,3 +21,5 @@ dro-la pen-čir sang-gje drub-par-šog
 
 *ལན་གསུམ།  
 Ponovi 3x*
+
+<!-- prevod: Aljoša Vidmar -->

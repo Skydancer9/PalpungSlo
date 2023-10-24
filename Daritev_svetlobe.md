@@ -4,6 +4,10 @@
 
 # ༄༅། །མར་མེའི་སྨོན་ལམ། <br>Daritev svetlobe
 
+མར་མེའི་སྣོད་ནི་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོ་འཇིག་རྟེན་ཁམས་ཀྱི་ཁོར་ཡུག་དང་མཉམ་པར་གྱུར་ཅིག །  
+mar me nö ni tong sum gji tong čen po džik ten kham kji khor juk dang njam par gjur čig  
+>May the bowl of this lamp become equal to the outer ring of this world realm of the great Three Thousands.
+
 ཨེ་མ་ཧོ།  
 e ma ho  
 >Emaho!
