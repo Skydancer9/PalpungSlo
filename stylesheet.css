@@ -4,7 +4,7 @@ h1 {
   text-align: center;
 }
 
-h1, h2 {
+h1, h2, h3, h4 {
   font-family: serif;
 }
 
@@ -16,6 +16,7 @@ a {
 
 em {
   color: rgb(93, 119, 199);
+  font-size: 0.91em;
 }
 
 blockquote {

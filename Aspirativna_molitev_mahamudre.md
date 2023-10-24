@@ -3,7 +3,7 @@
 
 # རྗེ་རང་བྱུང་ཞབས་ཀྱིས་མཛད་པའི་ངེས་དོན་ཕྱག་ཆེན་སྨོན་ལམ་བཞུགས་སོ། ། <br>Aspirativna molitev Mahamudre  
 
-Tretji Karmapa Rangdžung Dordže
+Tretji Karmapa Rangjung Dorje
 
 ན་མོ་གུ་རུ།  
 na mo gu ru
