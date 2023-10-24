@@ -76,3 +76,5 @@ Kdor tako trikrat na dan daruje hvalnico, bo pridobil omenjene lastnosti, razvil
 
 *དཔལ་ཡེ་ཤེས་ཡོན་ཏན་བཟང་པོ་ཞེས་བྱ་བའི་བསྟོད་པ་སློབ་དཔོན་རྡོ་རྗེ་མཚོན་ཆས་མཛད་པ་རྫོགས་སོ། །  
 S tem je hvalnica »Odlične lastnosti veličastne modrosti«, ki jo je sestavil Vajrāyudha/Vajraśastra, zaključena. V tibetanščino jo je prevedel Ngok Lotsawa.*
+
+<!-- prevod: Aljoša Vidmar -->

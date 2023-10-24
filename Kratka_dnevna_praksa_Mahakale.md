@@ -218,3 +218,5 @@ dro ua čik kjang ma lu pa
 །དེ་ཡི་ས་ལ་འགོད་པར་ཤོག །  
 de ji sa la gö par šok  
 >privedem v to stanje.
+
+<!-- prevod: Štefan Miljevič -->

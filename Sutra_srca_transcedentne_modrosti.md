@@ -169,3 +169,5 @@ mi dang / lha ma jin dang / dri sar če pei džik ten ji rang te / čom den de k
 གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།། །།  
 sung pa la ngön par tö do  
 >in hvalili besede Bhagavana.
+
+<!-- prevod: Aljoša Vidmar -->

@@ -61,3 +61,5 @@ tse pal mi šik dün den dor džei kham
 ཨ་ཡི་ཛཱུ་ན་དེ་ཝའི་རང་བཞིན་དུ། །  
 aju džnjana de uei rang žin du  
 >ki so enake Amitajusovim.
+
+<!-- prevod: Aljoša Vidmar -->

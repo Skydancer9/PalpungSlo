@@ -60,3 +60,5 @@ njur du drub par džin gji lab tu söl
 tejata pencandrija aua bodha naje soha**
 
 <!-- TODO: prevedi še preostanek besedila -->
+
+<!-- prevod: Selma Franov, Aljoša Vidmar -->

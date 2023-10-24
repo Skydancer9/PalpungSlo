@@ -1226,3 +1226,5 @@ tar thug nam khjen sang gje thob par šog
 
 *བསྔོ་སྨོན་ཤིས་བརྗོད་བྱ།  
 Recitirajte še druge posvetitvene, aspirativne in blagohotne molitve.*
+
+<!-- prevod: Aljoša Vidmar -->

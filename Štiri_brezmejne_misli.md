@@ -21,3 +21,5 @@ nje-ring čag-dang nji-dang dral-ue tang-njom čen-po-la ne-par gjur-čig
 
 *ལན་གསུམ།  
 Ponovi 3x*
+
+<!-- prevod: Aljoša Vidmar -->
