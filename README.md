@@ -45,5 +45,5 @@ Sedemintrideset kitic prakse bodhisatve
 
 Besedila lahko na svojo napravo prenesete v formath ePUB (e-kniga) in PDF.
 
-- [ePUB format](Zbirka_Palpung_molitev_in_sadhan.epub)
-- [PDF format](Zbirka_Palpung_molitev_in_sadhan.pdf)
+- [ePUB format](https://github.com/Skydancer9/PalpungSlo/raw/master/Zbirka_Palpung_molitev_in_sadhan_v1.3.9.epub)
+- [PDF format](https://github.com/Skydancer9/PalpungSlo/raw/master/Zbirka_Palpung_molitev_in_sadhan_v1.3.9.pdf)
