@@ -13,18 +13,18 @@ Center Palpung je dom, kjer se ohranja neprekinjena tradicija modrosti tibetansk
 
 ## Uvodne in zaključne molitve
 
-[Zatočišče in bodhičita](Zatočišče_in_bodhičita.md)
-[Štiri brezmejne misli](Štiri_brezmejne_misli.md)
-[Dordže čang thungma](Dordže_čang_thungma.md)
-[Sedemvejna molitev](Sedemvejna_molitev.md)
-[Daritev mandale – dolga](Darite_mandale–dolga.md)
-[Daritev mandale – kratka](Daritev_mandale-kratka.md)
-[Prošnja učitelju, da zavrti kolo Dharme](Prošnja_učitelju,_da_zavrti_kolo_dharme.md)
-[Aspirativna molitev Mahamudre](Aspirativna_molitev_mahamudre.md)
-[Posvetitev zaslug](Posvetitev_zaslug.md)
-[Molitev za dolgo življenje vseh učiteljev](Molitev_za_dolgo_življenje_vseh_učiteljev.md)
-[Molitev za dolgo življenje Ringuja Tulkuja](Molitev_za_dolgo_življenje_RTR.md)
-[Daritev hrane](Daritev_hrane.md)
+[Zatočišče in bodhičita](Zatočišče_in_bodhičita.md)  
+[Štiri brezmejne misli](Štiri_brezmejne_misli.md)  
+[Dordže čang thungma](Dordže_čang_thungma.md)  
+[Sedemvejna molitev](Sedemvejna_molitev.md)  
+[Daritev mandale – dolga](Darite_mandale–dolga.md)  
+[Daritev mandale – kratka](Daritev_mandale-kratka.md)  
+[Prošnja učitelju, da zavrti kolo Dharme](Prošnja_učitelju,_da_zavrti_kolo_dharme.md)  
+[Aspirativna molitev Mahamudre](Aspirativna_molitev_mahamudre.md)  
+[Posvetitev zaslug](Posvetitev_zaslug.md)  
+[Molitev za dolgo življenje vseh učiteljev](Molitev_za_dolgo_življenje_vseh_učiteljev.md)  
+[Molitev za dolgo življenje Ringuja Tulkuja](Molitev_za_dolgo_življenje_RTR.md)  
+[Daritev hrane](Daritev_hrane.md)  
 [Daritev hrane - II](Daritev_hrane_2.md)
 
 ## Sadhane in druge prakse
