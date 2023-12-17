@@ -1,6 +1,6 @@
 <!-- Text version: 1.8.7 -->
 <!-- Custom CSS styling: --->
-<link rel="stylesheet" href="./stylesheet.css" type="text/css" />
+<link rel="stylesheet" href="./stylesheet.css" type="text/css">
 
 # ༄༅། །དཔལ་ཡེ་ཤེས་ཡོན་ཏན་བཟང་པོ་ཞེས་བྱ་བའི་བསྟོད་པ།  <br>Hvalnica Mandžušriju: odlične lastnosti veličastne modrosti
 

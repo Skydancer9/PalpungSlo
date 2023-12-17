@@ -1,5 +1,5 @@
 <!-- Custom CSS styling: --->
-<link rel="stylesheet" href="./stylesheet.css" type="text/css" />
+<link rel="stylesheet" href="./stylesheet.css" type="text/css">
 
 # ༄༅། །ཤེས་རབ་སྙིང་པོ་བཞུགས་སོ། ། <br>Sutra srca transcedentne modrosti
 

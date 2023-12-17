@@ -1,6 +1,6 @@
 <!-- Text version: 1.6.1 -->
 <!-- Custom CSS styling: --->
-<link rel="stylesheet" href="./stylesheet.css" type="text/css" />
+<link rel="stylesheet" href="./stylesheet.css" type="text/css">
 
 # ༄༅། །མགོན་པོའི་རྒྱུན་ཁྱེར་བསྡུས་པ་བཞུགས་སོ། ། <br>Kratka dnevna praksa Mahakale
 

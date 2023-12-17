@@ -1,5 +1,5 @@
 <!-- Custom CSS styling: --->
-<link rel="stylesheet" href="./stylesheet.css" type="text/css" />
+<link rel="stylesheet" href="./stylesheet.css" type="text/css">
 
 # ༄༅། །ཐུགས་རྗེ་ཆེན་པོའི་སྒོམ་བཟླས་འགྲོ་དོན་མཁའ་ཁྱབ་མ་བཞུགས་སོ། ། <br>Sadhana Čenreziga
 

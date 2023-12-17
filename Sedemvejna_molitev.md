@@ -1,5 +1,5 @@
 <!-- Custom CSS styling: --->
-<link rel="stylesheet" href="./stylesheet.css" type="text/css" />
+<link rel="stylesheet" href="./stylesheet.css" type="text/css">
 
 # ཡན་ལག་བདུན་པ་ནི། <br>Sedemvejna molitev
 

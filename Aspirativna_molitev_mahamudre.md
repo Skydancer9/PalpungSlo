@@ -1,7 +1,7 @@
 <!-- Custom CSS styling: --->
-<link rel="stylesheet" href="./stylesheet.css" type="text/css" />
+<link rel="stylesheet" href="./stylesheet.css" type="text/css">
 
-# རྗེ་རང་བྱུང་ཞབས་ཀྱིས་མཛད་པའི་ངེས་དོན་ཕྱག་ཆེན་སྨོན་ལམ་བཞུགས་སོ། ། <br>Aspirativna molitev Mahamudre  
+# ༄༅། །རྗེ་རང་བྱུང་ཞབས་ཀྱིས་མཛད་པའི་ངེས་དོན་ཕྱག་ཆེན་སྨོན་ལམ་བཞུགས་སོ། ། <br>Aspirativna molitev Mahamudre  
 
 Tretji Karmapa Rangjung Dorje
 
@@ -50,7 +50,7 @@ kje dang kje ua ce rap kun tu jang
 
 སྡིག་དང་སྡུག་བསྔལ་སྒྲ་ཡང་མི་གྲག་ཅིང་། །  
 dik dang dug ngal dra jang mi drak čing  
->ne slišimo niti besed “negativno dejanje” in “trpljenje”
+>ne slišimo niti besed »negativno dejanje« in »trpljenje«
 
 བདེ་དགེ་རྒྱ་མཚོའི་དཔལ་ལ་སྤྱོད་པར་ཤོག །  
 de ge gja coi pal la čö par šok  

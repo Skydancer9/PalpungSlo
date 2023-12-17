@@ -1,5 +1,5 @@
 <!-- Custom CSS styling: --->
-<link rel="stylesheet" href="./stylesheet.css" type="text/css" />
+<link rel="stylesheet" href="./stylesheet.css" type="text/css">
 
 # ཚད་མེད་བཞི་ནི། <br>Štiri brezmejne misli
 

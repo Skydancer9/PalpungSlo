@@ -1,5 +1,5 @@
 <!-- Custom CSS styling: --->
-<link rel="stylesheet" href="./stylesheet.css" type="text/css" />
+<link rel="stylesheet" href="./stylesheet.css" type="text/css">
 
 # བསྔོ་བ་དང་སྨོན་ལམ་ནི  ། <br>Posvetitev zaslug
 

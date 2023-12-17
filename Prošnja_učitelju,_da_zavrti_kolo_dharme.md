@@ -1,7 +1,7 @@
 <!-- Custom CSS styling: --->
-<link rel="stylesheet" href="./stylesheet.css" type="text/css" />
+<link rel="stylesheet" href="./stylesheet.css" type="text/css">
 
-# ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་བ་ལ་གསོལ་བ་འདེབས་པ་ནི། <br>Prošnja učitelju, da zavrti kolo dharme
+# ༄༅། །ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་བ་ལ་གསོལ་བ་འདེབས་པ་ནི། <br>Prošnja učitelju, da zavrti kolo dharme
 
 སེམས་ཅན་རྣམས་ཀྱི་བསམ་པ་དང༌། །  
 sem-čen nam-kji sam-pa-dang  

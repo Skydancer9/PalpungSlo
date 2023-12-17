@@ -1,5 +1,5 @@
 <!-- Custom CSS styling: --->
-<link rel="stylesheet" href="./stylesheet.css" type="text/css" />
+<link rel="stylesheet" href="./stylesheet.css" type="text/css">
 
 # མནྜལ་ནི། <br>Dolga daritev mandale
 
@@ -54,7 +54,7 @@ ter čen poi bum pa gek mo ma treng ua ma
 
 གླུ་མ། གར་མ། མེ་ཏོག་མ། བདུག་སྤོས་མ།  
 lu ma gar ma me tok ma duk pö ma  
->boginja pesmi, boginja plesa, boginja cvetja boginja kadila
+>boginja pesmi, boginja plesa, boginja cvetja boginja kadila,
 
 སྣང་གསལ་མ། དྲི་ཆབ་མ། ཉི་མ། ཟླ་བ།  
 nang sal ma dri čab ma nji ma da ua  
@@ -74,9 +74,9 @@ rab džam gja tsoi dul gji drang le de pa ngön par kö pa di
 
 མཚུངས་མེད་དཔལ་ལྡན་བླ་མ་དམ་པའི་ཞབས་དྲུང་དུ་ཆོས་ཀྱིས་འཁོར་ལོ་བསྐོར་བར་གསོལ་བ་འདེབས་པའི་སླད་དུ་འབུལ་བར་བགྱིའོ། །  
 cung me pal deng la ma dam pei žab drung du čö gji khor lo khor uar sol ua deb pei le du bul uar gji o  
->Vpričo veličastnega svetega učitelja brez primere to darujemo s priprošnjo, da zavrtite kolo Dharme.
+>V prisotnosti veličastnega svetega učitelja brez primere to darujemo s priprošnjo, da zavrtite kolo Dharme.
 
-ཐུགས་རྗེས་འགྲོ་བའི་དོན་དུ་བཞེས་སུ་གསོལ།  
+ཐུགས་རྗེས་འགྲོ་བའི་དོན་དུ་བཞེས་སུ་གསོལ། །  
 thuk dže dro uei dön du že su sol  
 >Zaradi Vašega sočutja za dobrobit vseh čutečih bitij, prosim, sprejmite to daritev.
 
@@ -100,8 +100,8 @@ san gje žing du mig te pul ua ji
 dro-kun nam-dak žing-la čö-par-šog  
 >Naj vsa bitja živijo v tej popolni deželi!
 
-ༀ་མཎྜལ་པཱུ་ཛ་མེ་གྷ་ས་མུ་དྲ་སྥ་ར་ཎ་ས་མ་ཡེ་ཨཱཿཧཱུྃ།  
-om mendala pu dza me ga sa mu dra sa pa ra na sa ma je ah hung
+**ༀ་མཎྜལ་པཱུ་ཛ་མེ་གྷ་ས་མུ་དྲ་སྥ་ར་ཎ་ས་མ་ཡེ་ཨཱཿཧཱུྃ།  
+om mendala pu dza me ga sa mu dra sa pa ra na sa ma je ah hung**
 
 མཉེས་བྱེད་མཎྜལ་བཟང་པོ་འདི་ཕུལ་བས། །  
 nje dže men dal zang po di pul uei  
@@ -111,11 +111,11 @@ nje dže men dal zang po di pul uei
 džang čub lam la bar če mi džung žing  
 >naj se ovire na poti do prebujenja ne pojavijo,
 
-དུས་གསུམ་བདེར་གཤེགས་དགོངས་པ་རྟོགས་པ་དང༌།  
+དུས་གསུམ་བདེར་གཤེགས་དགོངས་པ་རྟོགས་པ་དང༌། །  
 dü sum de šek gong pa tok pa dang  
 >naj uresničimo namero bud v treh časih.
 
-།སྲིད་པར་མི་འཁྲུལ་ཞི་བར་མི་གནས་ཤིང༌། །  
+སྲིད་པར་མི་འཁྲུལ་ཞི་བར་མི་གནས་ཤིང༌། །  
 si par mi trul ži uar mi ne šing  
 >Ne zaslepljeni od obstoja, niti ostajajoči v spokojnosti,
 

@@ -1,6 +1,6 @@
 <!-- Text version: 1.8.7 -->
 <!-- Custom CSS styling: --->
-<link rel="stylesheet" href="./stylesheet.css" type="text/css" />
+<link rel="stylesheet" href="./stylesheet.css" type="text/css">
 
 # ༄༅། །ཀུན་མཁྱེན་ཏཱའི་སི་ཏུ་བསྟན་པའི་ཉིན་བྱེད་ཀྱིས་མཛད་པའི་སྒྲོལ་དཀར་རྒྱུན་ཁྱེར་བཞུགས། ། <br>Dnevna praksa Bele Tare
 

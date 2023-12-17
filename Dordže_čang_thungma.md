@@ -1,5 +1,5 @@
 <!-- Custom CSS styling: --->
-<link rel="stylesheet" href="./stylesheet.css" type="text/css" />
+<link rel="stylesheet" href="./stylesheet.css" type="text/css">
 
 # དྭགས་པོ་བཀའ་བརྒྱུད་སྤྱི་ལ་གསོལ་འདེབས། <br>Dordže čang thungma
 

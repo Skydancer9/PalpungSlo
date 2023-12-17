@@ -1,4 +1,3 @@
-<!-- Text version: 1.0 -->
 <!-- Custom CSS styling: --->
 <link rel="stylesheet" href="./stylesheet.css" type="text/css">
 
@@ -20,17 +19,16 @@ mar khu ni te gja co cam du gjur čig
 drang ni sang gje re re dün du dung čur re re džung uar gjur čig  
 >Naj pred vsakim budo pojavi se milijon teh lučk.
 
-
 འོད་ཀྱིས་སྲིད་པའི་རྩེ་མོ་མན་ཆད་ནས།  
 ö kji si pe ce mo men če ne  
 >Naj njihova svetloba odžene vso temo nevednosti,
 
 མནར་མེད་པའི་དམྱལ་བ་ཡན་ཆད་ཀྱི་མ་རིག་པའི་མུན་པ་ཐམས་ཅད་བསལ་ནས་  
 nar me pe njal ua jen če kji ma rig pe mün pa tam če sal ne  
->od vrha obstoja do najglobljega pekla,
+>od vrha obstoja do najglobljega pekla
 
 ཕྱོགས་བཅུའི་སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའི་ཞིང་ཁམས་ཐམས་ཅད་  
-čog čü sang gje dang džang čub sem pe šing kham tam če 
+čog čü sang gje dang džang čub sem pe šing kham tam če  
 >in osvetli vse čiste dežele bud in bodhisatev
 
 མངོན་སུམ་དུ་མཐོང་ཞིང་གསལ་བར་གྱུར་ཅིག །  
@@ -54,7 +52,7 @@ kal sang sang gje tong ca la sog pe
 
 རབ་འབྱམས་ཕྱོགས་བཅུའི་ཞིང་ཁམས་མ་ལུས་པའི། །  
 rab džam čog čuj šing kham ma lü pe  
->lamam, jidamom, dakini, varuhom Dharme
+>lamam, jidamom, dakini, varuhom dharme
 
 བླ་མ་ཡི་དམ་མཁའ་འགྲོ་ཆོས་སྐྱོང་དང༌། །  
 la ma ji dam khan dro čö kjong dang  
@@ -82,11 +80,11 @@ dzog sang gje pe šing kham ngön tong ne
 
 དཀོན་མཆོག་གསུམ་དང་རྩ་གསུམ་ལྷ་ཚོགས་ཀྱི། །  
 kön čog sum dang ca sum lha cog kji  
->Z močjo resnice Treh draguljev
+> Z močjo resnice Treh draguljev
 
 བདེན་པའི་མཐུ་ཡིས་སྨོན་ལམ་འདི་བཏབ་སྟེ། །  
 den pe tu ji mön lam di tab te  
->in božanstev Treh virov posvečam to molitev.
+> in božanstev Treh virov posvečam to molitev.
 
 མྱུར་དུ་འགྲུབ་པར་བྱིན་གྱིས་བརླབ་ཏུ་གསོལ། །  
 njur du drub par džin gji lab tu söl  
@@ -94,5 +92,3 @@ njur du drub par džin gji lab tu söl
 
 **ཏདྱ་ཐཱ། པཉྩནྡྲི་ཡ་ཨཱ་བ་བོ་དྷཱ་ནཱ་ཡེ་སྭཱཧཱ།  
 tejata pencandrija aua bodha naje soha**
-
-<!-- prevod: Selma Franov, Aljoša Vidmar; 2023 -->

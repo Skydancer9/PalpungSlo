@@ -1,5 +1,5 @@
 <!-- Custom CSS styling: --->
-<link rel="stylesheet" href="./stylesheet.css" type="text/css" />
+<link rel="stylesheet" href="./stylesheet.css" type="text/css">
 
 # ༄༅། །འགྲོ་བའི་མགོན་པོ་རི་མགུལ་སྤྲུལ་སྐུའི་ཞབས་བརྟན་སྨོན་ཆིག་འཆི་མེད་བདུད་ཆར་འབེས་ཞེས་བྱ་བ་བཞུགས་སོ། ། <br>Dež nesmrtne amrite: <br>molitev za dolgo življenje Ringuja Tulkuja
 
